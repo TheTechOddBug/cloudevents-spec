@@ -3,7 +3,6 @@
 admins:
   - deissnerk
   - duglin
-  - kenowens12
   - markpeek
 approvers:
   # Approvers are "Voting Members" as defined in the GOVERNANCE.md document.
